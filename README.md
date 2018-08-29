@@ -1,5 +1,8 @@
-# PHP ISO-3166-1 library
+# PHP Luhn algorithm function
 > A PHP function providing simple checksum formula used to validate a variety of identification numbers .
+
+[![Build Status](https://travis-ci.com/zhooravell/php-luhn-checksum.svg?branch=master)](https://travis-ci.com/zhooravell/php-luhn-checksum)
+
 
 ## Installing
 
