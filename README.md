@@ -4,7 +4,7 @@
 ## Installing
 
 ``` sh
-$ composer require zhuravel/php-iso-3166-1
+$ composer require zhuravel/php-luhn-checksum
 ```
 
 ## Example
