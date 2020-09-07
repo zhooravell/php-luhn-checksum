@@ -67,6 +67,7 @@ class IsValidLuhnChecksumTest extends TestCase
             [79927398715],
             [79927398716],
             [79927398719],
+            [null],
         ];
     }
 }
